@@ -1,0 +1,19 @@
+{
+  "name": "job-portal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjeev-rai/job-portal.git"
+  },
+  "author": "Sanjeev Rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjeev-rai/job-portal/issues"
+  },
+  "homepage": "https://github.com/sanjeev-rai/job-portal#readme"
+}
