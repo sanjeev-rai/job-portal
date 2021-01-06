@@ -1,7 +1,7 @@
 {
   "name": "job-portal",
   "version": "1.0.0",
-  "description": "",
+  "description": "API to create a job-portal app",
   "main": "index.js",
   "scripts": {
     "start": "node app.js",
